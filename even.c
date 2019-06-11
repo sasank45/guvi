@@ -8,4 +8,4 @@ void main(){
     printf("Odd");
   else
     printf("invalid");
-}    
+}  
