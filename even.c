@@ -1,6 +1,6 @@
 #include<stdio.h>
 void main(){
-  int nl;
+  int n;
   scanf("%d",&n);
   if(n%2==0)
     printf("Even");
