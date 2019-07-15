@@ -1,4 +1,6 @@
+import math
+
 n = int(input())
 n1 = int(input())
-print(n**n1)
- 
+x = math.pow(n,n1)
+print(x)
