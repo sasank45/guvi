@@ -1,5 +1,4 @@
-n = int(input())
-n1 = int(input())
+n,n1 = map(int,input().split())
 n = n ^ n1
 n1 = n ^ n1
 n = n ^ n1
