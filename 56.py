@@ -8,6 +8,6 @@ for i in str:
         b+=1
 
 if c>0 and b>0:
-    print("yes")
+    print("Yes")
 else:
-    print("no")
+    print("No")
