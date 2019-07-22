@@ -1,2 +1,2 @@
-str = input()
-print(len(str))
+var = input()
+print(len(var))
